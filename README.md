@@ -1,7 +1,3 @@
-# JPA2026-OPRO-Prompts
-
-Best-performing prompts and supplementary materials for the JPA 2026 poster presentation on OPRO-based prompt optimization.
-
 # Best-performing Prompts and Meta-prompts for OPRO-Based Prompt Optimization
 
 This repository provides the best-performing prompts obtained through OPRO-based prompt optimization for conspiracy belief classification.
